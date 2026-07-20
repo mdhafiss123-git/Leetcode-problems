@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0029-divide-two-integers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1600-throne-inheritance) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
