@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Trie
 |  |
