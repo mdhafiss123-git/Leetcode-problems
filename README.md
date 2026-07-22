@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0415-add-strings](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0415-add-strings) |
 | [1603-design-parking-system](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
