@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0415-add-strings](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1006-clumsy-factorial](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1006-clumsy-factorial) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0415-add-strings) |
+| [1006-clumsy-factorial](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1006-clumsy-factorial) |
 | [1603-design-parking-system](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [1006-clumsy-factorial](https://github.com/mdhafiss123-git/Leetcode-problems/tree/master/1006-clumsy-factorial) |
 ## Queue
 |  |
 | ------- |
